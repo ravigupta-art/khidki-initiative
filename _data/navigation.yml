@@ -5,8 +5,8 @@
      sublink_addr: /upcoming-talks.html
    - sublink_name: Past Talks
      sublink_addr: /past-talks.html
-- name: Guidelines
-  link: /guidelines.html
+- name: Archive
+  link: /archived-videos.html
   sublink: false
 - name: Subscribe
   link: /subscribe.html
