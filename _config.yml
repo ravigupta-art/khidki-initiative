@@ -19,7 +19,7 @@ email:
 author: Ravi Gupta
 description: KHIDKI is an initiative jointly by Animation Design Dept. & Animation Design Alumni to create a platform where Alumni & Industry experts bring in their expertise, skill, experiences & share with learners of MITID and fellow designers.
 url: "https://khidki.club" # The base hostname & protocol for your website. Right now its set for local development. Please change it at the time of deployment.
-baseurl: 
+baseurl: /
 logo_small: assets/khidki_logo_small.png
 banner: assets/banner.jpg
 # The baseurl or the directory from where the site is hosted. Right now its set for the root directory. In case of GitHub Pages add '/repo-name' in front of 'baseurl:' without the quotes.
