@@ -1,0 +1,16 @@
+- name: Schedule
+  sublink: true
+  sublinks:
+   - sublink_name: Upcoming Talks
+     sublink_addr: /upcoming-talks.html
+   - sublink_name: Past Talks
+     sublink_addr: /past-talks.html
+- name: Guidelines
+  link: /guidelines.html
+  sublink: false
+- name: Subscribe
+  link: /subscribe.html
+  sublink: false
+- name: Team
+  link: /team.html
+  sublink: false

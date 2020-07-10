@@ -1,0 +1,9 @@
+$site_buttoncolor:#f88f22;
+
+.btn-primary {
+    @include button-variant($site_buttoncolor, darken($site_buttoncolor, 7.5%), darken($site_buttoncolor, 10%), lighten($site_buttoncolor,5%), lighten($site_buttoncolor, 10%), darken($site_buttoncolor,30%));
+}
+
+.btn-outline-primary {
+    @include button-outline-variant($site_buttoncolor, #222222, lighten($site_buttoncolor,5%), $site_buttoncolor);
+}
