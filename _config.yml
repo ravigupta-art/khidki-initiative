@@ -27,7 +27,7 @@ banner: assets/banner.jpg
 # baseurl: /jekyll-vfolio
 
 # Google Analytics
-google_analytics:
+google_analytics: UA-171058063-1
 
 
 # Build settings
