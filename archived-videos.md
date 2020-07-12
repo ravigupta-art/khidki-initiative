@@ -1,6 +1,6 @@
 ---
 layout: normal
-title: Upcoming Talks
+title: Archived Talks
 ---
 <div class="jumbotron jumbotron-fluid">
   <div class="container">
