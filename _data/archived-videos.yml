@@ -7,7 +7,7 @@
 # It could be in the form of https://youtu.be/Ka8QpnRUAhA
 # VideoID in this case is Ka8QpnRUAhA
 # we just need to enter the videoID from the video link.
-- videotitle: Distorted Time by Mriganka Bhuyan
+- videotitle: 01. Distorted Time by Mriganka Bhuyan
   videodescription: In this presentation Mriganka Bhuyan talks about why having a quality portfolio is important than networking with recruiters / industry professionals.
   resource-type:
   app-tested:
@@ -16,3 +16,12 @@
 #   - link:
   videotype: youtube
   videoID: k9MKsGTQFuI
+- videotitle: 02. Script Breakdown and Scheduling for Feature Films - By Rohun Rege
+  videodescription: A lecture and Q&A about Script Breakdown and Scheduling for Feature Films.
+  resource-type:
+  app-tested:
+  download-links:
+#   - link:
+#   - link:
+  videotype: youtube
+  videoID: RWikzBVsD3A
