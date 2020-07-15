@@ -1,3 +1,6 @@
+- name: Livestream
+  link: /live
+  sublink: false
 - name: Schedule
   sublink: true
   sublinks:
