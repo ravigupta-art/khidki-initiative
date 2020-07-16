@@ -66,6 +66,7 @@ title: Livestream Page
                {% endif %}
               </div>
               <h5><br>{{site.data.livestream[count].videodescription }}</h5><br>
+              <h5><strong>*Note: If you are unable to watch the livestream on this page, click on the following link to watch it on youtube: <a id="youtube-note" href="https://youtu.be/{{ site.data.livestream[count].videoID }}">https://youtu.be/{{ site.data.livestream[count].videoID }}</a></strong></h5>
               {% if site.data.livestream[count].resource-type %}
               <p><span class="font-weight-bold">Resource type:</span> {{ site.data.livestream[count].resource-type }}</p>
               {% endif %}
