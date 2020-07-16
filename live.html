@@ -16,7 +16,7 @@ title: Livestream Page
              {% for j in (1..2) %}
               <div class="card mb-4 box-shadow">
                 <div class="card-header">
-                  <h4 class="my-0 font-weight-normal text-title"><strong>{{ site.data.livestream[count].videotitle }}</strong></h4>
+                  <h4 class="my-0 font-weight-normal text-title" id="card-video-title"><strong>{{ site.data.livestream[count].videotitle }}</strong></h4>
                 </div>
                 <div class="card-body">
                   <div class="embed-responsive embed-responsive-16by9">
@@ -55,7 +55,7 @@ title: Livestream Page
         <div class="card-deck mb-3 text-center">
           <div class="card mb-4 box-shadow">
             <div class="card-header">
-              <h4 class="my-0 font-weight-normal text-title"><strong>{{ site.data.livestream[count].videotitle }}</strong></h4>
+              <h4 class="my-0 font-weight-normal text-title" id="card-video-title"><strong>{{ site.data.livestream[count].videotitle }}</strong></h4>
             </div>
             <div class="card-body">
               <div class="embed-responsive embed-responsive-16by9">

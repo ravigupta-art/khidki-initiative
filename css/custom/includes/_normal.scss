@@ -31,3 +31,19 @@
 .guidlines-list {
   font-size: 1.5rem;
 }
+
+.card-header > h4{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1rem;
+  @media(max-width:800px) {
+        font-size: 0.8rem !important;
+    }
+}
+
+
+.card-body>h5{
+  font-size: 1.2rem;
+  @media(max-width: 800px){
+    font-size: 0.9rem;
+  }
+}
