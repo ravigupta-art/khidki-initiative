@@ -86,7 +86,11 @@ title: Livestream Page
           </div>
         </div>
       {% endif %}
-
+      {% if no_of_videos == 0 %}
+      <div class="col-12 mb-3 text-center">
+        <h4 style="margin-top: 100px;"><strong>Currently, there is no new livestream scheduled. We will update this page soon.</strong></h4>
+      </div>
+      {% endif %}
 
   </div>
 </div>
