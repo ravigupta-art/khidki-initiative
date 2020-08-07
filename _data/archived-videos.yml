@@ -43,3 +43,21 @@
 #   - link:
   videotype: youtube
   videoID: 8yyVunovq_0
+- videotitle: 05. Making of the Short Film: 'EXPEND' by Bismark Fernandes
+  videodescription: In this talk, Bismark will explain the process and techniques used to create a stop motion film by taking you behind the scenes of his film 'Expend'. He will go over the technical aspects of Stop motion filmmaking and explain his decisions and thought process as a director, a fabricator and an animator. Lastly, he will briefly explain the workflow followed by some of the studios creating stop motion content out here.
+  resource-type:
+  app-tested:
+  download-links:
+#   - link:
+#   - link:
+  videotype: youtube
+  videoID: F0OrMjkL9Ss
+- videotitle: 06. Git for Designers & Artists: An Introduction by Ravi Gupta
+  videodescription: In this talk, Ravi Gupta will introduce Git from the Designer’s/Artist’s perspective . He will cover a few basics of Git along with some Shell/Terminal commands. Finally, he will create a mock logo project and will use Git to version control it.
+  resource-type:
+  app-tested:
+  download-links:
+#   - link:
+#   - link:
+  videotype: youtube
+  videoID: _PRfi9v079I
