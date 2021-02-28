@@ -2,3 +2,7 @@ _site/
 .jekyll-cache/
 scripts/
 /vendor/
+_config.yml
+Gemfile.lock
+Gemfile
+.sass-cache/
