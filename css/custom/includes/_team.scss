@@ -6,3 +6,35 @@
 .member-info {
   padding-top: 5px;
 }
+
+ul.no-bullets  {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	column-count: 1;
+	column-gap: 20px;
+	font-size: 1.15rem;
+}
+
+@media only screen and (min-width: 500px) {
+	ul.no-bullets {
+		column-count: 2;
+	}
+}
+
+
+@media only screen and (min-width: 1000px) {
+	ul.no-bullets {
+		column-count: 3;
+	}
+}
+
+
+#contributors {
+	margin-top: 40px;
+	margin-bottom: 20px;
+}
+
+.info-text {
+	margin-bottom: 20px;
+}
